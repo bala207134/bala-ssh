@@ -1,0 +1,15 @@
+{
+  "name": "bala-ssh",
+  "version": "0.1.0",
+  "author": "bala",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "git@github.com:bala207134/bala-ssh.git",
+  "project_page": "https://github.com/bala207134/bala-ssh",
+  "issues_url": "https://github.com/bala207134/bala-ssh",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
